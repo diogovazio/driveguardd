@@ -1,6 +1,11 @@
 HP 3D DriveGuide Daemon for HP notebooks
 ==============
 
+Tech Intro:
+--------------
+
+[See this HP PDF] (http://www.hp.com/sbso/solutions/pc_expertise/professional_innovations/hp-3d-drive-guard.pdf)
+
 Usage: 
 --------------
 
@@ -13,6 +18,13 @@ Copy:
 Logging goes to syslog. Syntax is compatible with python3 and its the default
 
 And for Ubuntu/Debian users, update-rc.d driveguardd defaults
+
+ToDo:
+--------------
+
+1. Implement closed-lid parking.
+2. Use python easy setup to make things.
+3. Increase code legibility.
 
 Thanks:
 --------------
