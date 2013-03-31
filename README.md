@@ -4,7 +4,7 @@ HP 3D DriveGuide Daemon for HP notebooks
 Tech Intro:
 --------------
 
-[See this HP PDF] (http://www.hp.com/sbso/solutions/pc_expertise/professional_innovations/hp-3d-drive-guard.pdf)
+[See this HP PDF](http://www.hp.com/sbso/solutions/pc_expertise/professional_innovations/hp-3d-drive-guard.pdf)
 
 Usage: 
 --------------
